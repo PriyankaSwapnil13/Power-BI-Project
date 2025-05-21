@@ -1,4 +1,4 @@
-# Power-BI-Project
+# Air Quality Index-Power-BI
 This Air Quality Index (AQI) Dashboard provides real-time and historical insights into the air quality across various cities in India, using continuous date-wise sensor data. It tracks key pollutants and gases present in the atmosphere and helps assess the health impact of air quality levels.
 
 Parameter	Description

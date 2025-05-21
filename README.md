@@ -1,5 +1,6 @@
 # Power-BI-Project
 This Air Quality Index (AQI) Dashboard provides real-time and historical insights into the air quality across various cities in India, using continuous date-wise sensor data. It tracks key pollutants and gases present in the atmosphere and helps assess the health impact of air quality levels.
+
 Parameter	Description
 PM2.5	Fine particulate matter (less than 2.5µm); harmful when inhaled deeply
 PM10	Coarse dust particles (less than 10µm); contributes to smog and dust
